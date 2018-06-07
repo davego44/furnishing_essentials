@@ -1,0 +1,14 @@
+{
+  "name": "furnishing_essentials",
+  "version": "1.0.0",
+  "description": "Elegant home decor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "David Lobaccaro",
+  "license": "ISC",
+  "dependencies": {
+    "webpack": "^4.11.1"
+  }
+}
